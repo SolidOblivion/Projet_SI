@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prjSI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prjSI_jar</output-path>
+    <root id="archive" name="prjSI.jar">
+      <element id="module-output" name="prjSI" />
+    </root>
+  </artifact>
+</component>
